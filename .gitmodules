@@ -1,0 +1,4 @@
+[submodule "core-engine"]
+	path = nodepile-core
+	url = https://github.com/VogaSoftware/nodepile.git
+	branch = core
